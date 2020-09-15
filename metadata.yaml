@@ -1,0 +1,38 @@
+_repo: Doctor-Universe_63109
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ingels, Graham
+    birthdate: 1915
+    deathdate: 1991
+    gutenberg_agent_id: '51934'
+    url: http://www.gutenberg.org/2009/agents/51934
+    wikipedia: https://en.wikipedia.org/wiki/Graham_Ingels
+creator:
+  author:
+    agent_name: Jacobi, Carl
+    alias: Jacobi, Carl Richard
+    birthdate: 1908
+    deathdate: 1997
+    gutenberg_agent_id: '25187'
+    url: http://www.gutenberg.org/2009/agents/25187
+    wikipedia: https://en.wikipedia.org/wiki/Carl_Richard_Jacobi
+description: ''
+gutenberg_issued: '2020-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63109'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Older women -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Authors -- Fiction'
+- GITenberg
+title: Doctor Universe
+url: http://www.gutenberg.org/ebooks/63109
